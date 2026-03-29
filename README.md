@@ -3,7 +3,7 @@
 An AI-powered waste classification and sorting system for automated waste management, designed to support circular economy initiatives.
 <hr>
 
-# App Link: [Link Text](https://cleansort.streamlit.app/)
+# App Link: [cleansort.streamlit.app](https://cleansort.streamlit.app/)
 
 <hr>
 ## 🎯 Project Overview
