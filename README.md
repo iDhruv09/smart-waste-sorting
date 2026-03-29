@@ -206,8 +206,3 @@ Install reportlab: pip install reportlab
 - Streamlit for the interactive dashboard framework
 - Waste management industry partners for domain expertise
 
-### 📧 Contact
-For questions or support, please contact:
-
-- Email: your.email@example.com
-- Project Link: https://github.com/yourusername/smart-waste-sorting
