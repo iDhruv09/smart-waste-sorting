@@ -1,7 +1,9 @@
 # ♻️ Smart Waste Sorting System
 
 An AI-powered waste classification and sorting system for automated waste management, designed to support circular economy initiatives.
-**App Link**: [Link Text](https://cleansort.streamlit.app/)
+
+<hr>
+# **App Link**: [Link Text](https://cleansort.streamlit.app/)
 ## 🎯 Project Overview
 
 This system implements a vision-based conveyor belt sorter that classifies waste into recyclable (plastic, paper, metal) vs non-recyclable categories in real-time. Built for the waste management industry, it provides automated sorting recommendations and comprehensive analytics.
