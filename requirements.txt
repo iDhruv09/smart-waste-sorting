@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Minimal requirements.txt
 streamlit>=1.28.0
 opencv-python>=4.8.0
@@ -8,15 +8,4 @@ pandas>=2.0.0
 matplotlib>=3.7.0
 plotly>=5.17.0
 reportlab>=4.0.0
-=======
-# Minimal requirements.txt
-streamlit>=1.28.0
-opencv-python>=4.8.0
-numpy>=1.24.0
-ultralytics>=8.0.0
-pandas>=2.0.0
-matplotlib>=3.7.0
-plotly>=5.17.0
-reportlab>=4.0.0
->>>>>>> 58035aa2081de10e408abaa11d8f5839d42ff843
 Pillow>=10.0.0
