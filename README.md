@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # ♻️ Smart Waste Sorting System
 
 An AI-powered waste classification and sorting system for automated waste management, designed to support circular economy initiatives.
@@ -429,4 +428,4 @@ Install reportlab: pip install reportlab
 - Streamlit for the interactive dashboard framework
 - Waste management industry partners for domain expertise
 
->>>>>>> 58035aa2081de10e408abaa11d8f5839d42ff843
+
