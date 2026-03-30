@@ -66,7 +66,7 @@ This system implements a vision-based conveyor belt sorter that classifies waste
 
 ### Step 1: Clone the Repository
 
-- git clone https://github.com/yourusername/smart-waste-sorting.git
+- git clone https://github.com/yourusername/smart-waste-sorting-using-computer-vision.git
 - cd smart-waste-sorting
 ### Step 2: Create Virtual Environment
 - bash
